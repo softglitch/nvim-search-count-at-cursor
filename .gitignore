@@ -1,0 +1,15 @@
+# Test files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Development artifacts
+test*.lua
+test*.txt
+demo*.sh
+debug*.lua
+*_test.lua
